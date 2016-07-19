@@ -1,2 +1,2 @@
-div_This_is_a_rich__.html
+This_is_a_rich_text__.html
 div_On_the_other_hand__.html
