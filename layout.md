@@ -1,3 +1,4 @@
 This_is_a_rich_text__.html
 figures/figure_1/figure_1.png
+tex.tex
 div_On_the_other_hand__.html
